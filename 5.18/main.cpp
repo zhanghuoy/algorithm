@@ -5,6 +5,6 @@ int main()
     Solution so;
     vector<int> vec = { 1, 2,2 };
     cout << so.minIncrementForUnique(vec);
-    system("pause");
+    system("pause");;
     return 0;
 }
